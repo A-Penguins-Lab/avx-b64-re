@@ -1,4 +1,4 @@
-base64_table = {
+base66_table = {
     i: c for i, c in enumerate(
         'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
     )
